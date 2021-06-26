@@ -1,15 +1,13 @@
 # 999dice Premium Script Dari FS Tutorial
+# 999dice Premium Script From FS Tutorial
+
 Script Ini Untuk Membuat Kalian Kaya Raya Dalam Waktu Singkat, Tapi Anda Perlu Bimbingan Bermain Dari Pembuat Script Ini Agar Kalian Tidak Auto Miskin.
 This Script To Make You Rich In A Short Time, But You Need Guidance From The Creator Of This Script So You Are Not Auto Poor.
 
-An Dice mining script for [999DICE]( https://www.999dice.com/?396497691 )
+An Dice Mining Script For [999DICE]( https://www.999dice.com/?396497691 )
 
 <p align="center">
   <img src="preview.png" alt="preview">
-</p>
-
-<p align="center">
-  <img src="preview2.png" alt="preview">
 </p>
 
 ## Get Started
@@ -124,4 +122,4 @@ config.json
 
 Donations for continued support of this script are welcomed at:
 
-* DOGE DEwmjBKxS1NvLCTYufkcCVfqW8VjWhaYY8
+* DOGE ( DEwmjBKxS1NvLCTYufkcCVfqW8VjWhaYY8 )
