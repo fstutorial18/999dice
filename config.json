@@ -3,8 +3,8 @@
                  "Password"  : "xxxxx"
 },
   "Interface":
-{               "Base Bet"   : "0.001",
-                "Max Bet"    : "OFF",
+{               "Base Bet"   : "0.01",
+                "Max Bet"    : "5.5",
                 "Chance"     : "49.95",
   "Random"   :{ "Auto"       : "ON",
                 "Min"        : "15",
