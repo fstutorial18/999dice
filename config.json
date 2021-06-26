@@ -4,7 +4,7 @@
 },
   "Interface":
 {               "Base Bet"   : "0.01",
-                "Max Bet"    : "5.5",
+                "Max Bet"    : "21",
                 "Chance"     : "49.95",
   "Random"   :{ "Auto"       : "ON",
                 "Min"        : "15",
@@ -26,7 +26,7 @@
   "Reset"    :{ "If_Win"     : "1",
                 "If_Lose"    : "0"
 },
-  "Stop"     :{ "Balance"    : "5000",
+  "Stop"     :{ "Balance"    : "50000",
                 "If_Lose"    : "0",
                 "If_Prof"    : "200"
 },
