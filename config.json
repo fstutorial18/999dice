@@ -1,38 +1,38 @@
 {
-  "Account"  : { "Username"  : "xxxxx",
-                 "Password"  : "xxxxx"
+  "Account"  : { "Username"  : "ISI USER NAME KAMU",
+                 "Password"  : "ISI PASSWORD KAMU"
 },
   "Interface":
 {               "Base Bet"   : "0.01",
-                "Max Bet"    : "21",
+                "Max Bet"    : "OFF",
                 "Chance"     : "49.95",
   "Random"   :{ "Auto"       : "ON",
-                "Min"        : "15",
-                "Max"        : "25"
+                "Min"        : "10",
+                "Max"        : "20"
 },
-  "Cl_Seed"  :{ "Auto"       : "ON",
+  "Cl_Seed"  :{ "Auto"       : "OFF",
                 "Every_Lose" : "2"
 }
 },
-  "BetSet"   :{ "Bet"        : "L",
+  "BetSet"   :{ "Bet"        : "H",
   "H / L"    :{ "Auto"       : "OFF",
                 "On Lose"    : "1",
                 "On Win"     : "1"
 }
 },
   "Increase" :{ "After Win"  : "1",
-                "After Lose" : "1.3"
+                "After Lose" : "1.2"
 },
   "Reset"    :{ "If_Win"     : "1",
                 "If_Lose"    : "0"
 },
-  "Stop"     :{ "Balance"    : "50000",
+  "Stop"     :{ "Balance"    : "1000",
                 "If_Lose"    : "0",
-                "If_Prof"    : "200"
+                "If_Prof"    : "500"
 },
   "Withdraw" :{ "Auto"       : "ON",
                 "Initial"    : "50",
                 "Trigger"    : "200",
-                "Wallet"     : "DMx4tAdSW4Fo2VdBBnRiVY4o37BnYfo5Te"
+                "Wallet"     : "DDcuvEUg1b7fVTKKWxvj7NdQL4Jn4aKjhz"
 }
 }
