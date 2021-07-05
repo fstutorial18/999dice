@@ -1,4 +1,4 @@
-import requests,json,time,sys,random,os
+import requests,json,time,sys,random,os,argparse
 import colorama
 from colorama import Fore, Back, Style
 from random import randint
@@ -10,6 +10,14 @@ with open('config.json', 'r') as myfile:
       data=myfile.read()
 # parse file
 obj = json.loads(data)
+
+print (Style.NORMAL+Fore.MAGENTA+"\n========================================================\n"
++Style.NORMAL+Fore.GREEN+"      ___  _           ___       __\n     / _ \(_)______   / _ )___  / /_\n    / // / / __/ -_) / _  / _ \/ __/\n   /____/_/\__/\__/ /____/\___/\__/\n"
++Style.NORMAL+Fore.GREEN+"\n DONATE : DogeCoin = DEwmjBKxS1NvLCTYufkcCVfqW8VjWhaYY8\n"
++Style.NORMAL+Fore.MAGENTA+"\n========================================================\n"
++Style.BRIGHT+Fore.RED+"\n         Ini Adalah Robot Judi\n  Jika Mau Mining Mohon Jangan Serakah \n            Bet Kecil Aja\n")
+
+hijau = Style.BRIGHT+Fore.GREEN
 
 hijau = Style.BRIGHT+Fore.GREEN
 res = Style.RESET_ALL
